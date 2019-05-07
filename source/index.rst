@@ -1,6 +1,7 @@
 User Guide
 ==========
 .. meta::
+:title: landingMall documentation 
    :description: landingMall is an easy-to-use tool to build and test your stunning, on-brand and mobile-optimized landing page. Improve your conversion rate with just few click and without coding knowledge.
    :keywords: landing page,templates,multi users,codecanyon
 
@@ -26,38 +27,44 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
 
 .. toctree::
    :maxdepth: 1
-   :caption: Basic Features
+   :caption: Admin Mannual
 
-   introduction
-   deals
-   leads
-   accounts
-   invoices
-   payments
-   creditnotes
-   projects
-   subscriptions
-   knowledgebase
-   estimates
-   contracts
-   tasks
-   expenses
-   calendar
-   tickets
-   reports
+   _admin/access
+   _admin/templates
+   _admin/landingpage
+
 
 .. _advanced-settings:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Advanced Settings
+   :caption: Configuration
 
-   system_settings
-   lead_settings
-   deal_settings
-   invoice_settings
-   payment_settings
-   estimate_settings
-   ticket_settings
-   email_templates
-   translations
+   _config/subdomain
+   _config/domain
+   _config/email
+   
+.. _email-platform:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Configuration
+
+   _crm/mailchimp
+   _crm/saleforce
+   _crm/infusionsoft
+   _crm/aweber
+   _crm/zohocrm
+   _crm/hubspot
+   
+.. _user-mannual:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: User Mannual
+
+   _user/login
+   _user/website
+   _user/module
+   _user/section
+   _user/popup
