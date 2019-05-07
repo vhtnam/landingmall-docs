@@ -18,7 +18,7 @@ master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
-project = 'landingmall-docs'
+project = 'landingMall'
 copyright = '2019, STSEngine'
 author = 'STSEngine'
 
