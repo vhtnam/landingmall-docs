@@ -19,11 +19,11 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    :maxdepth: 1
    :caption: Installation
 
-   requirement
-   create_db
-   upload_files
-   install
-   updating
+   _install/requirement
+   _install/create_db
+   _install/upload_files
+   _install/install
+   _install/updating
 
 .. _basic-features:
 
