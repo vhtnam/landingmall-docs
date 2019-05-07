@@ -11,7 +11,6 @@ This documentation will help you learn all about creating landing page, configur
 
 To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
 
-.. _installation:
 
 .. toctree::
    :maxdepth: 1
@@ -23,7 +22,6 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    install
    updating
 
-.. _basic-features:
 
 .. toctree::
    :maxdepth: 1
@@ -34,7 +32,6 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    _admin/landingpage
 
 
-.. _advanced-settings:
 
 .. toctree::
    :maxdepth: 1
@@ -44,7 +41,6 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    _config/domain
    _config/email
    
-.. _email-platform:
 
 .. toctree::
    :maxdepth: 1
@@ -57,7 +53,6 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    _crm/zohocrm
    _crm/hubspot
    
-.. _user-mannual:
 
 .. toctree::
    :maxdepth: 1
