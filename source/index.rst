@@ -1,8 +1,10 @@
 User Guide
 ==========
 .. meta::
-:title: landingMall docu 
-   :description: landingMall is an easy-to-use tool to build and test your stunning, on-brand and mobile-optimized landing page. Improve your conversion rate with just few click and without coding knowledge.
+   :title: landingMall documentation
+   
+   :description: landingMall is an easy-to-use tool to build and test your stunning, on-brand and mobile-optimized landing page. Improve your conversion rate with just few click and without coding knowledge
+   
    :keywords: landing page,templates,multi users,codecanyon
 
 This documentation will help you learn all about creating landing page, configure system and much more.
