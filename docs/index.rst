@@ -16,13 +16,11 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    :maxdepth: 1
    :caption: Installation
 
+   requirement
+   create_db
+   upload_files
    install
-   configure
-   social_logins
-   update
-   changelogs
-   api
-   migration
+   updating
 
 .. _basic-features:
 
