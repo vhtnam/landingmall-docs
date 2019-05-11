@@ -22,6 +22,7 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    _install/requirement
    _install/create_db
    _install/upload_files
+   _install/file_permission
    _install/install
    _install/updating
 
@@ -50,7 +51,7 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
 
 .. toctree::
    :maxdepth: 1
-   :caption: Configuration
+   :caption: CRM Configuration
 
    _crm/mailchimp
    _crm/saleforce

@@ -1,6 +1,7 @@
 Infusionsoft(Keap)
 ==============
 
+.. Note:: Your site must run under https to allow InfusionSoft integration.
 
 ==============
 Creating InfusionSoft Developer Account
@@ -8,6 +9,8 @@ Creating InfusionSoft Developer Account
 
 - Go to https://keys.developer.infusionsoft.com/member/register
 - Fill all informations in the register form and click Submit
+    - Name of your application: any name.
+	- Register Callback URL : https://your_site_domain
 
 
 ==============
