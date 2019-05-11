@@ -1,5 +1,6 @@
 Saleforces
 ==============
+.. Note:: Your site must run under https to allow salesforce integration.
 
 .. Note:: You will need one of those Salesforce account: : Group, Professional, Enterprise, Performance, Unlimited, and Developer Editions.
 
@@ -17,7 +18,7 @@ Create a Connected Salesforce App
 .. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2018/08/salesforce3.jpg
 
 - Complete the Basic Information, and in the API section, select Enable OAuth Settings.
-- In the new OAuth settings that appear, for Callback URL, type the fully qualified domain name of your server, using the https protocol, and append the following text to the URL:  and auth/integration/salesforce/callback/r
+- In the new OAuth settings that appear, for Callback URL, type the fully qualified domain name of your server, using the https protocol, and append the following text to the URL:  https://your_site_domain/auth/integration/salesforce/callback
 
 For example:
 Move the following items from Available OAuth Scopes to Selected OAuth Scopes:
@@ -50,7 +51,7 @@ Open Administration page, navigate to Settings->Integrations. Fill the Salesforc
 
    - Consumer Key
    - Consumer Secret
-   - Callback URL: https://yoursite..com/auth/integration/salesforce/callback
+   - Callback URL: https://your_site_domain/auth/integration/salesforce/callback
    - Login URL: https://login.salesforce.com
 
 .. image:: https://landingmall.stsengine.com/wp-content/uploads/sites/5/2018/08/salesforce.jpg
