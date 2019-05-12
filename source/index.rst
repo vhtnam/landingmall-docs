@@ -25,6 +25,7 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    _install/file_permission
    _install/install
    _install/updating
+   changelog
 
 .. _basic-features:
 
