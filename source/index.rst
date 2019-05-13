@@ -69,6 +69,7 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
 
    _user/login
    _user/website
+   _user/publishing
    _user/module
    _user/section
    _user/popup
