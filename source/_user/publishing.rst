@@ -1,5 +1,4 @@
 Publishing & Domain names
-
 ==============
 
 If you want to allow your end-users to publish their landing page(s) using their own domain names, like yourdomain.com, you will need to complete the following steps:
