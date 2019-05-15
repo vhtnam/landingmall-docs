@@ -73,5 +73,7 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    _user/module
    _user/section
    _user/popup
+   _user/form
+   _user/form_integration
    _user/crm_config
    _user/google_recaptcha
