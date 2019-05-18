@@ -23,6 +23,7 @@ Export Template
 ==============
 Import Template
 ==============
+.. NOTE:: You can't import HTML template, it only works with template exported by this script__
 
 
 - From the Template list page, click Import button.

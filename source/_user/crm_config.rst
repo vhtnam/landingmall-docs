@@ -45,3 +45,19 @@ Mailwizz
 .. image:: https://wpdigipro.com/documentation/wp-content/uploads/2017/05/MW2.png
 
 Source : https://wpdigipro.com/documentation/docs/how-to-find-autoresponder-parameters/finding-parameters/mailwizz-ema/
+
+==============
+Zapier
+==============
+- Create a new account in https://www.zapier.com
+
+- Use this new account to login https://www.zapier.com
+- Click "Make a Zap!" button.
+- Zapier ask you to choose Trigger App. Find built-in app "Webhooks" and click it. 
+.. image:: ../assets/images/zapier1.png
+- Zapier ask you to select Trigger. Find "Catch Hook", select it and click "Save + Continue" button.
+.. image:: ../assets/images/zapier2.png
+- Zapier generate Webhook URL which you use in integration process.
+.. image:: ../assets/images/zapier3.png
+
+
