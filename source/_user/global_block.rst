@@ -33,8 +33,6 @@ Edit a global block
 - Now, find your global block then click Open In Builder
 .. image:: ../assets/images/global_block4.jpg
 
-- 
-
 
 ==============
 Embed a global block
