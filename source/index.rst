@@ -44,7 +44,9 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    :maxdepth: 1
    :caption: Configuration
 
+   _config/screenshot
    _config/subdomain
+   
    _config/domain
    _config/email
    
@@ -72,6 +74,7 @@ To purchase landingMall `Click Here <https://landingmall.stsengine.com>`__
    _user/publishing
    _user/module
    _user/section
+   _user/global_block
    _user/popup
    _user/form
    _user/form_integration
