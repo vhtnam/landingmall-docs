@@ -37,23 +37,14 @@ Edit a global block
 
 
 ==============
-Section Properties
+Embed a global block
 ==============
-**Offset**
 
-Change height of the section.
-**Border**
+- Open a landing page you want to embed the global block.
+click Add Section button located on left side of the header.
 
-Set border color, stroke and add a corner radius.
-**Box shadow**
+- Next, in the Templates dialog, click Global Block tab.
 
-Add shadow to your section.
-**Label Properties**
+.. image:: ../assets/images/global_block5.jpg
+- Select the prefer section then click Select.
 
-Set text properties such as color, font style. It will apply for every new text widget added to this section.
-**Background**
-
-Set background color, image. Support gradient color.
-**Overlay Properties**
-
-Add a overlay div to section.
