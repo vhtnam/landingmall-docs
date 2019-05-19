@@ -1,6 +1,8 @@
 Global Block
 ==============
+
 Global block is a user section marked as global, it can embed multiple landing pages and allow customers to update multiple pages just with one click. 
+
 ==============
 Create a global block
 ==============
